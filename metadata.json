@@ -1,0 +1,5 @@
+{
+  "name": "LingoFlow AI",
+  "description": "A comprehensive language learning platform featuring real-time AI conversational partners and advanced audio tools for song-based learning.",
+  "requestFramePermissions": ["microphone"]
+}
